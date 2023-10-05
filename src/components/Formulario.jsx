@@ -64,11 +64,11 @@ const Formulario = ({setPacientes, pacientes, paciente, setPaciente}) => {
         }
 
         // reiniciar formulario
-        // setNombre('');
-        // setPropietario('');
-        // setEmail('');
-        // setFecha('');
-        // setSintomas('');
+        setNombre('');
+        setPropietario('');
+        setEmail('');
+        setFecha('');
+        setSintomas('');
 
     }
 
